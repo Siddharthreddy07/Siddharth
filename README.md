@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Siddharth</h1>
 - 🔭 I’m currently working on [MARS ROVER MANIPAL](https://in.linkedin.com/company/marsrovermanipal)
 
-- 🌱 I’m currently learning **ROS,Machine learning,Deep learning**
+- 🌱 I’m currently learning **ROS,Machine Learning and Deep Learning**
 
 - 📫 How to reach me **siddharth.gangireddy@gmail.com**
 
